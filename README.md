@@ -38,7 +38,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 <!-- Add your best projects here -->
 - **Real-Time Glove Detection and QC System for Manufacturing** - A real-time computer vision quality control system integrating YOLO-based object detection with industrial automation workflows. The system includes a Django-powered web interface that allows operators to define up to six detection zones on live video feeds for monitoring glove compliance in manufacturing environments. Integration with PLCs enables precise control and synchronization of detection zones within the industrial process. This system demonstrates the integration of modern computer vision techniques with industrial automation protocols, making it suitable for quality control applications in manufacturing, assembly lines, and safety compliance monitoring.
 - **Phi-3 Chat with Semantic Memory** - A local LLM chat application built with Streamlit that features intelligent conversation memory using ChromaDB for semantic search. The application runs Microsoft's Phi-3-mini model locally and maintains context-aware conversations by storing and retrieving relevant past interactions based on semantic similarity.
-- **[Project Name 3]** - Third project that demonstrates your range
+- **In4mo Portal Webscraping** - Azure-based web scraping solution that automatically extracts and processes insurance claims data from the In4mo platform using Selenium WebDriver.
 
 ### 🎯 Current Focus
 
@@ -48,6 +48,6 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/shah-zeb-ai]
-- 📧 Email: [zebshah7851@gmail.com]
-- 🌐 Portfolio: [shahzeb-ai.com]
+- 💼 LinkedIn: ![linkedin.com/in/shah-zeb-ai](linkedin.com/in/shah-zeb-ai)
+- 📧 Email: ![zebshah7851@gmail.com](zebshah7851@gmail.com)
+- 🌐 Portfolio: ![shahzeb-ai.com](shahzeb-ai.com)
