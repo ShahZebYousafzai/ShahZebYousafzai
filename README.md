@@ -27,10 +27,6 @@ I'm passionate about building intelligent systems that solve real-world problems
 - ☁️ **AWS** (Primary cloud platform)
 - 🔷 **Azure** & **GCP** (Multi-cloud experience)
 
-### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahZebYousafzai&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahZebYousafzai&layout=compact&theme=radical)
 
 ### 🏆 Featured Projects
