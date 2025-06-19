@@ -42,8 +42,19 @@ I'm passionate about building intelligent systems that solve real-world problems
 - 🤖 Building next-generation agentic AI systems
 - 🌱 Staying at the forefront of AI research and implementation
 
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahZebYousafzai&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahZebYousafzai&layout=compact&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahZebYousafzai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: ![linkedin.com/in/shah-zeb-ai](linkedin.com/in/shah-zeb-ai)
-- 📧 Email: ![zebshah7851@gmail.com](zebshah7851@gmail.com)
-- 🌐 Portfolio: ![shahzeb-ai.com](shahzeb-ai.com)
+- 💼 LinkedIn: [linkedin.com/in/shah-zeb-ai](linkedin.com/in/shah-zeb-ai)
+- 📧 Email: [zebshah7851@gmail.com](zebshah7851@gmail.com)
+- 🌐 Portfolio: [shahzeb-ai.com](shahzeb-ai.com)
