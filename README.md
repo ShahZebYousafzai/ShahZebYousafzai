@@ -27,8 +27,6 @@ I'm passionate about building intelligent systems that solve real-world problems
 - ☁️ **AWS** (Primary cloud platform)
 - 🔷 **Azure** & **GCP** (Multi-cloud experience)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahZebYousafzai&layout=compact&theme=radical)
-
 ### 🏆 Featured Projects
 
 <!-- Add your best projects here -->
@@ -51,6 +49,13 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahZebYousafzai&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+## 🌟 Profile Views & Followers
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShahZebYousafzai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ShahZebYousafzai?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ### 📫 Let's Connect
